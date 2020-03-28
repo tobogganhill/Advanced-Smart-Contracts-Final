@@ -1,6 +1,6 @@
 # Proxy Contract
 
-Following the steps to complete this exercise:
+
 1. clone this project
 1. update packages: ```npm ci```
 2. run the test: ```npm test```
